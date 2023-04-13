@@ -1,0 +1,18 @@
+- id: "d83d-1166-0d7c"
+  web:
+    metaDescription: "Landing"
+    metaTitle: "Landing"
+    metaLinkText: "Landing"
+    metaKeywords: null
+    pathPart: "landing"
+    path: "/landing/"
+    sitemapPriority: -1
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+    parent: "/"
+  meta:
+    sort: 404
+    listed: true
+  data:
+    header_text: "Landing Pages"

@@ -1,7 +1,6 @@
 
   - id: "alabama-specialists"
     web:
-      metaDescription: ""
       metaTitle: "Alabama Home Insurance Experts"
       metaKeywords: null
       metaLinkText: ""
@@ -16,17 +15,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Alabama Home Insurance Experts"
       sub_text: null
       header_text: "Alabama Home Insurance Experts"
       sub_header: "Enter your address, and we'll use hundreds of data points to get you a custom quote."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -34,7 +29,6 @@
       body: ""
   - id: "better-home-insurance"
     web:
-      metaDescription: ""
       metaTitle: "All We Need Is An Address"
       metaKeywords: null
       metaLinkText: ""
@@ -49,17 +43,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "All We Need Is An Address"
       sub_text: null
       header_text: "All We Need Is An Address"
       sub_header: "Home insurance can be cheap, easy, and fast. Get a quote with just your address below, and save 20% in seconds."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/uploads/address.png?raw=true"
+      featured_image: "3-f894cc0-tlmb3c"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -67,7 +57,6 @@
       body: "<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-MJ.png\" alt=\"\" /></p>\n<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-Debra-West.png\" alt=\"\" /></p>"
   - id: "california-specialists"
     web:
-      metaDescription: ""
       metaTitle: "California Home Insurance Experts"
       metaKeywords: null
       metaLinkText: ""
@@ -82,17 +71,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "California Home Insurance Experts"
       sub_text: null
       header_text: "California Home Insurance Experts"
       sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quickly."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -100,7 +85,6 @@
       body: ""
   - id: "condo-specialists"
     web:
-      metaDescription: ""
       metaTitle: "Florida Condo Insurance Experts"
       metaKeywords: null
       metaLinkText: ""
@@ -115,17 +99,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Florida Condo Insurance Experts"
       sub_text: null
       header_text: "Florida Condo Insurance Experts"
       sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quick"
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -148,17 +128,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Save $500 When You Apply Online*"
       sub_text: null
       header_text: "Save $500 When You Apply Online*"
       sub_header: "Protecting your home has never been easier. At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: "1"
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: "1"
@@ -166,7 +142,6 @@
       body: ""
   - id: "fixing"
     web:
-      metaDescription: ""
       metaTitle: "We're Fixing Home Insurance."
       metaKeywords: null
       metaLinkText: ""
@@ -181,17 +156,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "We're Fixing Home Insurance."
       sub_text: null
       header_text: "We're Fixing Home Insurance."
       sub_header: "Enter your address, and we'll use hundreds of data points to get you a custom quote."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -199,7 +170,6 @@
       body: ""
   - id: "florida-condo"
     web:
-      metaDescription: ""
       metaTitle: "Florida Condo Insurance Experts"
       metaKeywords: null
       metaLinkText: ""
@@ -214,17 +184,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Florida Condo Insurance Experts"
       sub_text: null
       header_text: "Florida Condo Insurance Experts"
       sub_header: "Enter your address, and we'll use hundreds of data points to get you a custom quote."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -232,7 +198,6 @@
       body: ""
   - id: "florida-quote-kin-2"
     web:
-      metaDescription: ""
       metaTitle: "Get Your Quote in 8.62 seconds"
       metaKeywords: null
       metaLinkText: ""
@@ -247,17 +212,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Get Your Quote in 8.62 seconds"
       sub_text: null
       header_text: "Get Your Quote in 8.62 seconds"
       sub_header: "Enter your address below and see your quote in seconds. See how much you can save!"
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -265,7 +226,6 @@
       body: ""
   - id: "florida-specialists-1-1"
     web:
-      metaDescription: ""
       metaTitle: "Home Insurance Costs Are Through the Roof. Kin Can Help."
       metaKeywords: null
       metaLinkText: ""
@@ -280,17 +240,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Home Insurance Costs Are Through the Roof. Kin Can Help."
       sub_text: null
       header_text: "Home Insurance Costs Are Through the Roof. Kin Can Help."
       sub_header: "The average customer saves $500 after switching to Kin. See how much you’ll save."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -298,7 +254,6 @@
       body: ""
   - id: "florida-specialists-1"
     web:
-      metaDescription: ""
       metaTitle: "Florida Home Insurance Experts"
       metaKeywords: null
       metaLinkText: ""
@@ -313,17 +268,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Florida Home Insurance Experts"
       sub_text: null
       header_text: "Florida Home Insurance Experts"
       sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quickly."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -331,7 +282,6 @@
       body: ""
   - id: "florida-specialists-3"
     web:
-      metaDescription: ""
       metaTitle: "Enter Your Home Address"
       metaKeywords: null
       metaLinkText: ""
@@ -346,17 +296,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Enter Your Home Address"
       sub_text: null
       header_text: "Enter Your Home Address"
       sub_header: null
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -364,7 +310,6 @@
       body: ""
   - id: "florida-specialists-spotify-2"
     web:
-      metaDescription: ""
       metaTitle: "The Home for Better Insurance"
       metaKeywords: null
       metaLinkText: ""
@@ -379,17 +324,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "The Home for Better Insurance"
       sub_text: null
       header_text: "The Home for Better Insurance"
       sub_header: "Kin’s customers rate us 4.8 out of 5 on third-party review sites. The average Florida insurer is less than 3 out of 5."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -397,7 +338,6 @@
       body: ""
   - id: "florida-specialists-spotify"
     web:
-      metaDescription: ""
       metaTitle: "The Home for Better Insurance"
       metaKeywords: null
       metaLinkText: ""
@@ -412,17 +352,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "The Home for Better Insurance"
       sub_text: null
       header_text: "The Home for Better Insurance"
       sub_header: "The average customer saves $500 after switching to Kin. See how much you’ll save."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -430,7 +366,6 @@
       body: ""
   - id: "florida-specialists"
     web:
-      metaDescription: ""
       metaTitle: "Florida Home Insurance Experts"
       metaKeywords: null
       metaLinkText: ""
@@ -445,17 +380,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Florida Home Insurance Experts"
       sub_text: null
       header_text: "Florida Home Insurance Experts"
       sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quickly."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -463,7 +394,6 @@
       body: ""
   - id: "free-vivint-sensors"
     web:
-      metaDescription: ""
       metaTitle: "Smart Home Insurance for Smart Homeowners"
       metaKeywords: null
       metaLinkText: ""
@@ -478,17 +408,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Smart Home Insurance for Smart Homeowners"
       sub_text: null
       header_text: "Smart Home Insurance for Smart Homeowners"
       sub_header: "Get four complimentary water detection sensors when you get a home insurance quote from Kin. No obligations – just free home protection, exclusively for Vivint Customers."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -496,8 +422,7 @@
       body: ""
   - id: "gators"
     web:
-      metaDescription: ""
-      metaTitle: ""
+      metaTitle: "gators"
       metaKeywords: null
       metaLinkText: ""
       pathPart: "gators"
@@ -511,17 +436,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "gators"
       sub_text: null
       header_text: null
       sub_header: "Save up to 20% on your home insurance! Just enter your address below to get started."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/uploads/proudsupporter-floridagators-typelogo-gatorblue.gif?raw=true"
+      featured_image: "3-f894bed-5nd6ql"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -529,7 +450,6 @@
       body: ""
   - id: "georgia-specialists"
     web:
-      metaDescription: ""
       metaTitle: "Georgia's Home Insurance Experts"
       metaKeywords: null
       metaLinkText: ""
@@ -544,17 +464,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Georgia's Home Insurance Experts"
       sub_text: null
       header_text: "Georgia's Home Insurance Experts"
       sub_header: "Enter your address below to see your custom quote in seconds. Experience the next generation of home insurance."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -562,7 +478,6 @@
       body: ""
   - id: "help"
     web:
-      metaDescription: ""
       metaTitle: "Your Capitol Preferred Policy Is Getting Cancelled"
       metaKeywords: null
       metaLinkText: ""
@@ -577,17 +492,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Your Capitol Preferred Policy Is Getting Cancelled"
       sub_text: null
       header_text: "Your Capitol Preferred Policy Is Getting Cancelled"
       sub_header: "Don't risk a lapse in coverage. Kin's insurance experts are standing by to help. Get reliable, affordable coverage today."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -595,8 +506,7 @@
       body: ""
   - id: "homebay"
     web:
-      metaDescription: ""
-      metaTitle: ""
+      metaTitle: "homebay"
       metaKeywords: null
       metaLinkText: ""
       pathPart: "homebay"
@@ -610,17 +520,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "homebay"
       sub_text: null
       header_text: null
       sub_header: "Home Bay & Kin believe that home insurance can be inexpensive, easy, and fast. Just enter your address below and see a quote in seconds."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/uploads/logo_kinhb.png?raw=true"
+      featured_image: "3-f894d1c-ktz9v0"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -628,7 +534,6 @@
       body: ""
   - id: "homeowners"
     web:
-      metaDescription: ""
       metaTitle: "Homeowners Insurance Made Easy"
       metaKeywords: null
       metaLinkText: ""
@@ -643,17 +548,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Homeowners Insurance Made Easy"
       sub_text: null
       header_text: "Homeowners Insurance Made Easy"
       sub_header: null
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -661,7 +562,6 @@
       body: ""
   - id: "insurance-experts"
     web:
-      metaDescription: ""
       metaTitle: "Home Insurance Experts"
       metaKeywords: null
       metaLinkText: ""
@@ -676,17 +576,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Home Insurance Experts"
       sub_text: null
       header_text: "Home Insurance Experts"
       sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quickly."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -694,7 +590,6 @@
       body: ""
   - id: "jamie-ahern"
     web:
-      metaDescription: ""
       metaTitle: "Meet Our Reps"
       metaKeywords: null
       metaLinkText: ""
@@ -709,17 +604,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Meet Our Reps"
       sub_text: null
       header_text: "Meet Our Reps"
       sub_header: "Jamie Ahern"
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/uploads/li-profile.jpeg?raw=true"
+      featured_image: "3-f894c5f-fw2gbn"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -727,7 +618,6 @@
       body: "<h2 id=\"jamieahern\">Jamie Ahern</h2>\n<p>Jamie likes long walks on the beach and selling insurance.</p>\n<p><strong>Quick Facts</strong></p>\n<ul>\n<li>Jamie is a <a href=\"https://licenseesearch.fldfs.com/Licensee/1842736\">fully licensed producer in Florida</a>.</li>\n<li>Jamie has helped hundreds of customers get affordable coverage for their home.</li>\n<li>Kin is the <a href=\"/reviews/\">top-rated insurance company</a> in Florida.</li>\n</ul>\n<p><a href=\"/cs/c/?cta_guid=59fb19a4-94b0-43e6-af1b-3d91dc65bb85&signature=AAH58kFGpuF02Y8Mxi4Fm4YoeweCbpTNhw&pageId=26402264411&placement_guid=db986f48-78b4-4e4b-8cfd-53a65b4f6815&click=0df1edef-e9d2-42a0-a758-995b364158a5&hsutk=806db31570f56b9e0bf881d51f096e89&canon=https%3A%2F%2Fwww.kin.com%2Fjamie-ahern&portal_id=5763266&redirect_url=APefjpG-CNJhcF3m6UkDAc0Ni5CYgYwxVHruuiW6KSm-E6q0xaVYQQc1JMceIq6nu7DTufr4PFVv2hsRpR9A25unikhhuh3Xsf7FJpQIovAk9eyunxpbRRdVbcUW3r2DdXMUfAW4MCaZ8Z_iNp6OedjoygMJ7ZPPPw3Ad1nXaP8vTdNVl6WpRaQR0--4KbIGfQ5ML-o9VdLk54cXRL92D2UeM8NFmJ162uYGSpJDI2AX0nWYYfLUH9VeTm55Qn8EkF-U26G0ZNwY\" title=\"Get a Quote\"><strong>Get a Quote</strong></a></p>"
   - id: "john-lynch-1"
     web:
-      metaDescription: ""
       metaTitle: "Meet Our Reps"
       metaKeywords: null
       metaLinkText: ""
@@ -742,17 +632,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Meet Our Reps"
       sub_text: null
       header_text: "Meet Our Reps"
       sub_header: null
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/uploads/image-from-ios-4.png?raw=true"
+      featured_image: "3-f894d41-wcdhpb"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -760,7 +646,6 @@
       body: "<h2 id=\"johnlynch\">John Lynch</h2>\n<p>John loves to travel and cook. He also prides himself on providing the best possible customer service!</p>\n<p><strong>Quick Facts</strong></p>\n<ul>\n<li>John is a <a href=\"https://licenseesearch.fldfs.com/Licensee/1914717\">fully licensed producer in Florida</a>.</li>\n<li>John has helped hundreds of customers get affordable coverage for their home.</li>\n<li>Kin is the <a href=\"/reviews/\">top-rated insurance company</a> in Florida.</li>\n</ul>\n<p><a href=\"/cs/c/?cta_guid=59fb19a4-94b0-43e6-af1b-3d91dc65bb85&signature=AAH58kHIsyPTUQgARMsv5DQ_p4lqFqPFcw&pageId=27474475646&placement_guid=db986f48-78b4-4e4b-8cfd-53a65b4f6815&click=58950015-e3a6-4bf8-a969-41d5281801a3&hsutk=d32e8f6e718c79b7cda572f475bce4af&canon=https%3A%2F%2Fwww.kin.com%2Fjohn-lynch&portal_id=5763266&redirect_url=APefjpEWwjm5cQTHhnuwEJ4LNjY9A-MOFIL7a_WUe-QkWKpnyzPBv1Xbiy8sLLISo23uTLbog2TpHgMxTP1oNjYhVvS2Ib2o_gblU_ZN-7pfEHr5bt_EzcmRXwDQPUrzpjnf0cZBEDQcqLE9n72djG9KKqXJ8YCOTz00m6502axCmQsTZrO56VsbyHLDz5FJWncRM0Ns48bJ7SgYQdwrUgVQtjKq0U58xRVs7m2YLRqiBgP1BtEFiIXuZl7jnUbvunX5E0cz8d7n&__hstc=231796288.d32e8f6e718c79b7cda572f475bce4af.1610651041166.1610651041166.1610651041166.1&__hssc=231796288.27.1610651041167&__hsfp=2873996859&contentType=landing-page\" title=\"Get a Quote\"><strong>Get a Quote</strong></a></p>"
   - id: "john-lynch"
     web:
-      metaDescription: ""
       metaTitle: "Meet Our Reps"
       metaKeywords: null
       metaLinkText: ""
@@ -775,17 +660,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Meet Our Reps"
       sub_text: null
       header_text: "Meet Our Reps"
       sub_header: "John Lynch"
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/uploads/image-from-ios-4.png?raw=true"
+      featured_image: "3-f894d41-wcdhpb"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -793,7 +674,6 @@
       body: "<h2 id=\"johnlynch\">John Lynch</h2>\n<p>John loves to travel and cook. He also prides himself on providing the best possible customer service!</p>\n<p><strong>Quick Facts</strong></p>\n<ul>\n<li>John is a <a href=\"https://licenseesearch.fldfs.com/Licensee/1914717\">fully licensed producer in Florida</a>.</li>\n<li>John has helped hundreds of customers get affordable coverage for their home.</li>\n<li>Kin is the <a href=\"/reviews/\">top-rated insurance company</a> in Florida.</li>\n</ul>\n<p><a href=\"/cs/c/?cta_guid=59fb19a4-94b0-43e6-af1b-3d91dc65bb85&signature=AAH58kHgqEXjR_M9ZUIA9RJtxKqLtJdRdw&pageId=27474475646&placement_guid=db986f48-78b4-4e4b-8cfd-53a65b4f6815&click=514d9d71-92ef-42ea-9aab-7911fb9e2292&hsutk=806db31570f56b9e0bf881d51f096e89&canon=https%3A%2F%2Fwww.kin.com%2Fjohn-lynch&portal_id=5763266&redirect_url=APefjpEv5OYLq2AXtDkz0gqX97GzELn4Jtxan5rLud7WcsPf_HLX7jMWJWMEYucq_2VTvRdQijYQdmD0Yua46somSG84msaEi0Cr0ptnsM6k3jPyzTwstS2aLQBuVBAZtrh_GZj0f5JqbAXQTmLaPG6ZpchbOo4cLWHwM_oddIQxe6tOZru7j-vNnYEMoe26ITy-V9VnuQO8ljtxHR7tOhd8rMt0jhpSWoFbrhWNdYNrqz2LXaFrtk4eeupmopc84J5HkIE3tCM6&__hstc=231796288.806db31570f56b9e0bf881d51f096e89.1610476663903.1610581689623.1610643242958.7&__hssc=231796288.5.1610643242958&__hsfp=2900156266&contentType=landing-page\" title=\"Get a Quote\"><strong>Get a Quote</strong></a></p>"
   - id: "kin-from-a-friend"
     web:
-      metaDescription: ""
       metaTitle: "Your Friends Love Kin and We Think You Will Too"
       metaKeywords: null
       metaLinkText: ""
@@ -808,17 +688,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Your Friends Love Kin and We Think You Will Too"
       sub_text: null
       header_text: "Your Friends Love Kin and We Think You Will Too"
       sub_header: "Home insurance can be inexpensive, easy, and fast. Get a quote from a trusted carrier in seconds and see how much you can save. Your friends already have!"
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -826,7 +702,6 @@
       body: ""
   - id: "kin-partners"
     web:
-      metaDescription: ""
       metaTitle: "Kin is a whole new way to Home Insurance"
       metaKeywords: null
       metaLinkText: ""
@@ -841,17 +716,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Kin is a whole new way to Home Insurance"
       sub_text: null
       header_text: "Kin is a whole new way to Home Insurance"
       sub_header: "Enter your address below and see your quote in seconds. Customers save 17% on average."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -859,7 +730,6 @@
       body: "<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-MJ.png\" alt=\"\" /></p>\n<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-Debra-West.png\" alt=\"\" /></p>"
   - id: "kin-vs-allstate"
     web:
-      metaDescription: ""
       metaTitle: "Save $500 When You Apply Online*"
       metaKeywords: null
       metaLinkText: ""
@@ -874,17 +744,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Save $500 When You Apply Online*"
       sub_text: null
       header_text: "Save $500 When You Apply Online*"
       sub_header: "The average homeowner who switches to Kin from a competitor like AllState saves $500.  At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -892,7 +758,6 @@
       body: ""
   - id: "kin-vs-geico"
     web:
-      metaDescription: ""
       metaTitle: "Save $500 When You Apply Online*"
       metaKeywords: null
       metaLinkText: ""
@@ -907,17 +772,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Save $500 When You Apply Online*"
       sub_text: null
       header_text: "Save $500 When You Apply Online*"
       sub_header: "The average homeowner who switches to Kin from a competitor like Geico saves $500.  At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -925,7 +786,6 @@
       body: ""
   - id: "kin-vs-progressive"
     web:
-      metaDescription: ""
       metaTitle: "Save $500 When You Apply Online*"
       metaKeywords: null
       metaLinkText: ""
@@ -940,17 +800,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Save $500 When You Apply Online*"
       sub_text: null
       header_text: "Save $500 When You Apply Online*"
       sub_header: "The average homeowner who switches to Kin from a competitor like Progressive saves $500.  At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -973,17 +829,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Save $500 When You Apply Online*"
       sub_text: null
       header_text: "Save $500 When You Apply Online*"
       sub_header: "The average homeowner who switches to Kin from a competitor like State Farm saves $500.  At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: "1"
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: "1"
@@ -991,8 +843,7 @@
       body: ""
   - id: "lendingtree"
     web:
-      metaDescription: ""
-      metaTitle: ""
+      metaTitle: "lendingtree"
       metaKeywords: null
       metaLinkText: ""
       pathPart: "lendingtree"
@@ -1006,17 +857,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "lendingtree"
       sub_text: null
       header_text: null
       sub_header: "LendingTree & Kin believe that home insurance can be inexpensive, easy, and fast. Just enter your address below and see a quote in seconds."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/uploads/lendingtree-landing-page-logo.png?raw=true"
+      featured_image: "3-f894d18-cswqdn"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1024,7 +871,6 @@
       body: ""
   - id: "manufactured-home"
     web:
-      metaDescription: ""
       metaTitle: "Florida Manufactured Home Insurance"
       metaKeywords: null
       metaLinkText: ""
@@ -1039,17 +885,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Florida Manufactured Home Insurance"
       sub_text: null
       header_text: "Florida Manufactured Home Insurance"
       sub_header: "Enter your address for a manufactured home insurance quote, and see how much you can save on your coverage."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1057,7 +899,6 @@
       body: ""
   - id: "mobile-home"
     web:
-      metaDescription: ""
       metaTitle: "Florida Mobile Home Insurance"
       metaKeywords: null
       metaLinkText: ""
@@ -1072,17 +913,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Florida Mobile Home Insurance"
       sub_text: null
       header_text: "Florida Mobile Home Insurance"
       sub_header: "Enter your address for a mobile home insurance quote, and see how much you can save on your coverage."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1090,7 +927,6 @@
       body: ""
   - id: "mymove"
     web:
-      metaDescription: ""
       metaTitle: "Congrats on Your New Home. Now Let's Protect Your Investiment."
       metaKeywords: null
       metaLinkText: ""
@@ -1105,17 +941,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Congrats on Your New Home. Now Let's Protect Your Investiment."
       sub_text: null
       header_text: "Congrats on Your New Home. Now Let's Protect Your Investiment."
       sub_header: "The average customer saves $500 after switching to Kin. See how much you’ll save."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1123,7 +955,6 @@
       body: ""
   - id: "newspapers"
     web:
-      metaDescription: ""
       metaTitle: "Home Insurance Costs Are Through the Roof. Kin Can Help."
       metaKeywords: null
       metaLinkText: ""
@@ -1138,17 +969,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Home Insurance Costs Are Through the Roof. Kin Can Help."
       sub_text: null
       header_text: "Home Insurance Costs Are Through the Roof. Kin Can Help."
       sub_header: "The average customer saves $500 after switching to Kin. See how much you’ll save."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1156,7 +983,6 @@
       body: ""
   - id: "newyear"
     web:
-      metaDescription: ""
       metaTitle: "Manufactured Home Insurance Experts"
       metaKeywords: null
       metaLinkText: ""
@@ -1171,17 +997,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Manufactured Home Insurance Experts"
       sub_text: null
       header_text: "Manufactured Home Insurance Experts"
       sub_header: "Enter your address, and our agents will use hundreds of data points to customize your policy."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1189,7 +1011,6 @@
       body: ""
   - id: "npr"
     web:
-      metaDescription: ""
       metaTitle: "Welcome, NPR Listeners!"
       metaKeywords: null
       metaLinkText: ""
@@ -1204,17 +1025,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Welcome, NPR Listeners!"
       sub_text: null
       header_text: "Welcome, NPR Listeners!"
       sub_header: "Ready to see how easy homeowners insurance can be? Enter your address and let's get started."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1222,8 +1039,7 @@
       body: ""
   - id: "opcity"
     web:
-      metaDescription: ""
-      metaTitle: ""
+      metaTitle: "opcity"
       metaKeywords: null
       metaLinkText: ""
       pathPart: "opcity"
@@ -1237,17 +1053,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "opcity"
       sub_text: null
       header_text: null
       sub_header: "OpCity & Kin believe home insurance should be inexpensive, easy, and fast. Just enter your address and see a quote in seconds."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/uploads/kin_opcity.png?raw=true"
+      featured_image: "3-f894d0e-vjjvk9"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1255,7 +1067,6 @@
       body: ""
   - id: "orlando-specialists"
     web:
-      metaDescription: ""
       metaTitle: "Orlando Home Insurance Experts"
       metaKeywords: null
       metaLinkText: ""
@@ -1270,17 +1081,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Orlando Home Insurance Experts"
       sub_text: null
       header_text: "Orlando Home Insurance Experts"
       sub_header: "Enter your address below, see your quote in seconds. Customers save up to 17%."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1288,7 +1095,6 @@
       body: ""
   - id: "pandora"
     web:
-      metaDescription: ""
       metaTitle: "Florida Home Insurance Experts"
       metaKeywords: null
       metaLinkText: ""
@@ -1303,17 +1109,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Florida Home Insurance Experts"
       sub_text: null
       header_text: "Florida Home Insurance Experts"
       sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quickly."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1321,7 +1123,6 @@
       body: ""
   - id: "protect-my-home"
     web:
-      metaDescription: ""
       metaTitle: "Protect Your Home with BMP + Kin"
       metaKeywords: null
       metaLinkText: ""
@@ -1336,17 +1137,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Protect Your Home with BMP + Kin"
       sub_text: null
       header_text: "Protect Your Home with BMP + Kin"
       sub_header: "Home insurance can be inexpensive, easy, and fast. Get a quote with just your address below and save 20% in seconds. Your friends already have!"
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1354,7 +1151,6 @@
       body: ""
   - id: "realtors"
     web:
-      metaDescription: ""
       metaTitle: "Kin Partners with Realtors!"
       metaKeywords: null
       metaLinkText: ""
@@ -1369,17 +1165,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Kin Partners with Realtors!"
       sub_text: null
       header_text: "Kin Partners with Realtors!"
       sub_header: "Your clients get accurate, affordable insurance in moments, while you get peace of mind and faster commissions. Email us to get more details."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1387,7 +1179,6 @@
       body: ""
   - id: "save-on-home-insurance"
     web:
-      metaDescription: ""
       metaTitle: "Save On Your Home Insurance"
       metaKeywords: null
       metaLinkText: ""
@@ -1402,17 +1193,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Save On Your Home Insurance"
       sub_text: null
       header_text: "Save On Your Home Insurance"
       sub_header: "Enter your address to learn how much you can save on your home insurance."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1420,7 +1207,6 @@
       body: ""
   - id: "save250"
     web:
-      metaDescription: ""
       metaTitle: "Save $250 When You Apply Online*"
       metaKeywords: null
       metaLinkText: ""
@@ -1435,17 +1221,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Save $250 When You Apply Online*"
       sub_text: null
       header_text: "Save $250 When You Apply Online*"
       sub_header: "Protecting your home has never been easier. At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1454,7 +1236,7 @@
   - id: "save500"
     web:
       metaDescription: ""
-      metaTitle: "Save $500 When You Apply Online*"
+      metaTitle: "Save an Average of $500 When You Apply Online*"
       metaKeywords: null
       metaLinkText: ""
       pathPart: "save500"
@@ -1468,17 +1250,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Save an Average of $500 When You Apply Online*"
       sub_text: null
       header_text: "Save $500 When You Apply Online*"
       sub_header: "Protecting your home has never been easier. At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: "1"
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: "1"
@@ -1486,7 +1264,6 @@
       body: ""
   - id: "solar"
     web:
-      metaDescription: ""
       metaTitle: "Save on Energy. Save on Home Insurance."
       metaKeywords: null
       metaLinkText: ""
@@ -1501,17 +1278,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Save on Energy. Save on Home Insurance."
       sub_text: null
       header_text: "Save on Energy. Save on Home Insurance."
       sub_header: "Take your solar savings further with Kin. We've got your solar panels covered, and we help you save $500 on average on your home insurance. Enter your address and get a quote today."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1519,7 +1292,6 @@
       body: ""
   - id: "tampa-specialists"
     web:
-      metaDescription: ""
       metaTitle: "Tampa Home Insurance Experts"
       metaKeywords: null
       metaLinkText: ""
@@ -1534,17 +1306,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Tampa Home Insurance Experts"
       sub_text: null
       header_text: "Tampa Home Insurance Experts"
       sub_header: "Enter your address below to see your quote in seconds. Customers save up to 20%."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1552,7 +1320,6 @@
       body: ""
   - id: "texas-quote"
     web:
-      metaDescription: ""
       metaTitle: "Texas Home Insurance Experts"
       metaKeywords: null
       metaLinkText: ""
@@ -1567,17 +1334,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Texas Home Insurance Experts"
       sub_text: null
       header_text: "Texas Home Insurance Experts"
       sub_header: "Enter your address below and see your quote in seconds. Customers save 17% on average."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1585,7 +1348,6 @@
       body: ""
   - id: "texas-quotes"
     web:
-      metaDescription: ""
       metaTitle: "Texas Home Insurance Experts"
       metaKeywords: null
       metaLinkText: ""
@@ -1600,17 +1362,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Texas Home Insurance Experts"
       sub_text: null
       header_text: "Texas Home Insurance Experts"
       sub_header: "Enter your address below, see your quote in seconds. Customers save 17% on average."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/uploads/trustpilot-review-debra-west.png?raw=true"
+      featured_image: "3-f894d93-85hskg"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1618,7 +1376,6 @@
       body: ""
   - id: "texas-specialists"
     web:
-      metaDescription: ""
       metaTitle: "The Texas Home Insurance Experts"
       metaKeywords: null
       metaLinkText: ""
@@ -1633,17 +1390,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "The Texas Home Insurance Experts"
       sub_text: null
       header_text: "The Texas Home Insurance Experts"
       sub_header: "Enter your address, and we'll use hundreds of data points to get you a custom quote."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1651,7 +1404,6 @@
       body: ""
   - id: "third-nail"
     web:
-      metaDescription: ""
       metaTitle: "One Nail Could Save You Up to 50% on Home Insurance"
       metaKeywords: null
       metaLinkText: ""
@@ -1666,17 +1418,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "One Nail Could Save You Up to 50% on Home Insurance"
       sub_text: null
       header_text: "One Nail Could Save You Up to 50% on Home Insurance"
       sub_header: "Our trusted partner LGT Restoration Services, Inc. can upgrade your toe nail roof-to-wall connection to hurricane clips simply by adding a third nail. That quick upgrade makes your home safer and helps you save 20 to 50 percent on home insurance."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/uploads/h3-clip.jpg?raw=true"
+      featured_image: "3-f894c34-mdzp4w"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
@@ -1699,17 +1447,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Save $500 When You Apply Online*"
       sub_text: null
       header_text: "Save $500 When You Apply Online*"
       sub_header: "Protecting your home has never been easier. At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/home/hero.png?raw=true"
+      featured_image: "3-f89489a-fvnb6l"
       is_feature_clipped: "1"
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: "1"
@@ -1718,7 +1462,7 @@
   - id: "umbrella-giveaway-promo"
     web:
       metaDescription: ""
-      metaTitle: ""
+      metaTitle: "Umbrella Giveaway Promo"
       metaKeywords: null
       metaLinkText: ""
       pathPart: "umbrella-giveaway-promo"
@@ -1732,9 +1476,6 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Umbrella Giveaway Promo"
       sub_text: null
       header_text: null
       sub_header: null
@@ -1742,7 +1483,6 @@
       is_feature_clipped: "1"
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: "1"
@@ -1750,7 +1490,6 @@
       body: ""
   - id: "vivint-quote"
     web:
-      metaDescription: ""
       metaTitle: "Kin is proud to partner with"
       metaKeywords: null
       metaLinkText: ""
@@ -1765,17 +1504,13 @@
       sort: null
       listed: true
     data:
-      slug: null
-      no_index: "1"
-      title: "Kin is proud to partner with"
       sub_text: null
       header_text: "Kin is proud to partner with"
       sub_header: "Enter your address below to see your quote in seconds. Customers save an average of 20%."
-      featured_image: "https://github.com/giseleblair/kin-website/blob/main/content/images/uploads/vivint-logo.png?raw=true"
+      featured_image: "3-f894d5a-sqfzcj"
       is_feature_clipped: null
       featured_image_alt: null
       featured_video: null
-      thumbnail_image: null
       schemamarkup: null
       jump_nav: null
       show_related_posts: null
