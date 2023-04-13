@@ -15,52 +15,6 @@
       required: true
       relationship: null
 - description: null
-  label: "Jump Nav"
-  name: "jump_nav"
-  sort: 1
-  listed: true
-  hasRoute: false
-  showAsTable: false
-  parent: "landing_pages"
-  fields:
-    - name: "link_text"
-      label: "Link Text"
-      description: null
-      datatype: "text"
-      sort: 1
-      required: true
-      relationship: null
-    - name: "href"
-      label: "Href"
-      description: null
-      datatype: "text"
-      sort: 1
-      required: true
-      relationship: null
-- description: null
-  label: "Related Posts"
-  name: "related_posts"
-  sort: 1
-  listed: true
-  hasRoute: false
-  showAsTable: false
-  parent: "landing_pages"
-  fields:
-    - name: "related_posts_header"
-      label: "Featured Posts Header"
-      description: null
-      datatype: "text"
-      sort: 1
-      required: true
-      relationship: null
-    - name: "related_posts"
-      label: "Featured Posts"
-      description: null
-      datatype: "link"
-      sort: 1
-      required: true
-      relationship: null
-- description: null
   label: "Landing Pages"
   name: "landing_pages"
   sort: 1
@@ -139,9 +93,7 @@
       datatype: "one_to_many"
       sort: 1
       required: false
-      relationship:
-        name: "jump_nav"
-        display: "link_text"
+      relationship: null
       settings:
         list: true
     - name: "show_related_posts"
@@ -162,9 +114,7 @@
       datatype: "one_to_many"
       sort: 1
       required: false
-      relationship:
-        name: "related_posts"
-        display: "related_posts_header"
+      relationship: null
       settings:
         list: true
     - name: "body"
