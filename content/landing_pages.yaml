@@ -1,1518 +1,1517 @@
-
-  - id: "alabama-specialists"
-    web:
-      metaTitle: "Alabama Home Insurance Experts"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "alabama-specialists"
-      path: "/landing_pages/alabama-specialists/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Alabama Home Insurance Experts"
-      sub_header: "Enter your address, and we'll use hundreds of data points to get you a custom quote."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "better-home-insurance"
-    web:
-      metaTitle: "All We Need Is An Address"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "better-home-insurance"
-      path: "/landing_pages/better-home-insurance/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "All We Need Is An Address"
-      sub_header: "Home insurance can be cheap, easy, and fast. Get a quote with just your address below, and save 20% in seconds."
-      featured_image: "3-f894cc0-tlmb3c"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: "<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-MJ.png\" alt=\"\" /></p>\n<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-Debra-West.png\" alt=\"\" /></p>"
-  - id: "california-specialists"
-    web:
-      metaTitle: "California Home Insurance Experts"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "california-specialists"
-      path: "/landing_pages/california-specialists/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "California Home Insurance Experts"
-      sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quickly."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "condo-specialists"
-    web:
-      metaTitle: "Florida Condo Insurance Experts"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "condo-specialists"
-      path: "/landing_pages/condo-specialists/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Florida Condo Insurance Experts"
-      sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quick"
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "consumersadvocate"
-    web:
-      metaDescription: ""
-      metaTitle: "Save $500 When You Apply Online*"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "consumersadvocate"
-      path: "/landing_pages/consumersadvocate/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Save $500 When You Apply Online*"
-      sub_header: "Protecting your home has never been easier. At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: "1"
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: "1"
-      related_posts: null
-      body: ""
-  - id: "fixing"
-    web:
-      metaTitle: "We're Fixing Home Insurance."
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "fixing"
-      path: "/landing_pages/fixing/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "We're Fixing Home Insurance."
-      sub_header: "Enter your address, and we'll use hundreds of data points to get you a custom quote."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "florida-condo"
-    web:
-      metaTitle: "Florida Condo Insurance Experts"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "florida-condo"
-      path: "/landing_pages/florida-condo/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Florida Condo Insurance Experts"
-      sub_header: "Enter your address, and we'll use hundreds of data points to get you a custom quote."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "florida-quote-kin-2"
-    web:
-      metaTitle: "Get Your Quote in 8.62 seconds"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "florida-quote-kin-2"
-      path: "/landing_pages/florida-quote-kin-2/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Get Your Quote in 8.62 seconds"
-      sub_header: "Enter your address below and see your quote in seconds. See how much you can save!"
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "florida-specialists-1-1"
-    web:
-      metaTitle: "Home Insurance Costs Are Through the Roof. Kin Can Help."
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "florida-specialists-1-1"
-      path: "/landing_pages/florida-specialists-1-1/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Home Insurance Costs Are Through the Roof. Kin Can Help."
-      sub_header: "The average customer saves $500 after switching to Kin. See how much you’ll save."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "florida-specialists-1"
-    web:
-      metaTitle: "Florida Home Insurance Experts"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "florida-specialists-1"
-      path: "/landing_pages/florida-specialists-1/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Florida Home Insurance Experts"
-      sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quickly."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "florida-specialists-3"
-    web:
-      metaTitle: "Enter Your Home Address"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "florida-specialists-3"
-      path: "/landing_pages/florida-specialists-3/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Enter Your Home Address"
-      sub_header: null
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "florida-specialists-spotify-2"
-    web:
-      metaTitle: "The Home for Better Insurance"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "florida-specialists-spotify-2"
-      path: "/landing_pages/florida-specialists-spotify-2/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "The Home for Better Insurance"
-      sub_header: "Kin’s customers rate us 4.8 out of 5 on third-party review sites. The average Florida insurer is less than 3 out of 5."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "florida-specialists-spotify"
-    web:
-      metaTitle: "The Home for Better Insurance"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "florida-specialists-spotify"
-      path: "/landing_pages/florida-specialists-spotify/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "The Home for Better Insurance"
-      sub_header: "The average customer saves $500 after switching to Kin. See how much you’ll save."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "florida-specialists"
-    web:
-      metaTitle: "Florida Home Insurance Experts"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "florida-specialists"
-      path: "/landing_pages/florida-specialists/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Florida Home Insurance Experts"
-      sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quickly."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "free-vivint-sensors"
-    web:
-      metaTitle: "Smart Home Insurance for Smart Homeowners"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "free-vivint-sensors"
-      path: "/landing_pages/free-vivint-sensors/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Smart Home Insurance for Smart Homeowners"
-      sub_header: "Get four complimentary water detection sensors when you get a home insurance quote from Kin. No obligations – just free home protection, exclusively for Vivint Customers."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "gators"
-    web:
-      metaTitle: "gators"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "gators"
-      path: "/landing_pages/gators/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: null
-      sub_header: "Save up to 20% on your home insurance! Just enter your address below to get started."
-      featured_image: "3-f894bed-5nd6ql"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "georgia-specialists"
-    web:
-      metaTitle: "Georgia's Home Insurance Experts"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "georgia-specialists"
-      path: "/landing_pages/georgia-specialists/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Georgia's Home Insurance Experts"
-      sub_header: "Enter your address below to see your custom quote in seconds. Experience the next generation of home insurance."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "help"
-    web:
-      metaTitle: "Your Capitol Preferred Policy Is Getting Cancelled"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "help"
-      path: "/landing_pages/help/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Your Capitol Preferred Policy Is Getting Cancelled"
-      sub_header: "Don't risk a lapse in coverage. Kin's insurance experts are standing by to help. Get reliable, affordable coverage today."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "homebay"
-    web:
-      metaTitle: "homebay"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "homebay"
-      path: "/landing_pages/homebay/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: null
-      sub_header: "Home Bay & Kin believe that home insurance can be inexpensive, easy, and fast. Just enter your address below and see a quote in seconds."
-      featured_image: "3-f894d1c-ktz9v0"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "homeowners"
-    web:
-      metaTitle: "Homeowners Insurance Made Easy"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "homeowners"
-      path: "/landing_pages/homeowners/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Homeowners Insurance Made Easy"
-      sub_header: null
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "insurance-experts"
-    web:
-      metaTitle: "Home Insurance Experts"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "insurance-experts"
-      path: "/landing_pages/insurance-experts/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Home Insurance Experts"
-      sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quickly."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "jamie-ahern"
-    web:
-      metaTitle: "Meet Our Reps"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "jamie-ahern"
-      path: "/landing_pages/jamie-ahern/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Meet Our Reps"
-      sub_header: "Jamie Ahern"
-      featured_image: "3-f894c5f-fw2gbn"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: "<h2 id=\"jamieahern\">Jamie Ahern</h2>\n<p>Jamie likes long walks on the beach and selling insurance.</p>\n<p><strong>Quick Facts</strong></p>\n<ul>\n<li>Jamie is a <a href=\"https://licenseesearch.fldfs.com/Licensee/1842736\">fully licensed producer in Florida</a>.</li>\n<li>Jamie has helped hundreds of customers get affordable coverage for their home.</li>\n<li>Kin is the <a href=\"/reviews/\">top-rated insurance company</a> in Florida.</li>\n</ul>\n<p><a href=\"/cs/c/?cta_guid=59fb19a4-94b0-43e6-af1b-3d91dc65bb85&signature=AAH58kFGpuF02Y8Mxi4Fm4YoeweCbpTNhw&pageId=26402264411&placement_guid=db986f48-78b4-4e4b-8cfd-53a65b4f6815&click=0df1edef-e9d2-42a0-a758-995b364158a5&hsutk=806db31570f56b9e0bf881d51f096e89&canon=https%3A%2F%2Fwww.kin.com%2Fjamie-ahern&portal_id=5763266&redirect_url=APefjpG-CNJhcF3m6UkDAc0Ni5CYgYwxVHruuiW6KSm-E6q0xaVYQQc1JMceIq6nu7DTufr4PFVv2hsRpR9A25unikhhuh3Xsf7FJpQIovAk9eyunxpbRRdVbcUW3r2DdXMUfAW4MCaZ8Z_iNp6OedjoygMJ7ZPPPw3Ad1nXaP8vTdNVl6WpRaQR0--4KbIGfQ5ML-o9VdLk54cXRL92D2UeM8NFmJ162uYGSpJDI2AX0nWYYfLUH9VeTm55Qn8EkF-U26G0ZNwY\" title=\"Get a Quote\"><strong>Get a Quote</strong></a></p>"
-  - id: "john-lynch-1"
-    web:
-      metaTitle: "Meet Our Reps"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "john-lynch-1"
-      path: "/landing_pages/john-lynch-1/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Meet Our Reps"
-      sub_header: null
-      featured_image: "3-f894d41-wcdhpb"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: "<h2 id=\"johnlynch\">John Lynch</h2>\n<p>John loves to travel and cook. He also prides himself on providing the best possible customer service!</p>\n<p><strong>Quick Facts</strong></p>\n<ul>\n<li>John is a <a href=\"https://licenseesearch.fldfs.com/Licensee/1914717\">fully licensed producer in Florida</a>.</li>\n<li>John has helped hundreds of customers get affordable coverage for their home.</li>\n<li>Kin is the <a href=\"/reviews/\">top-rated insurance company</a> in Florida.</li>\n</ul>\n<p><a href=\"/cs/c/?cta_guid=59fb19a4-94b0-43e6-af1b-3d91dc65bb85&signature=AAH58kHIsyPTUQgARMsv5DQ_p4lqFqPFcw&pageId=27474475646&placement_guid=db986f48-78b4-4e4b-8cfd-53a65b4f6815&click=58950015-e3a6-4bf8-a969-41d5281801a3&hsutk=d32e8f6e718c79b7cda572f475bce4af&canon=https%3A%2F%2Fwww.kin.com%2Fjohn-lynch&portal_id=5763266&redirect_url=APefjpEWwjm5cQTHhnuwEJ4LNjY9A-MOFIL7a_WUe-QkWKpnyzPBv1Xbiy8sLLISo23uTLbog2TpHgMxTP1oNjYhVvS2Ib2o_gblU_ZN-7pfEHr5bt_EzcmRXwDQPUrzpjnf0cZBEDQcqLE9n72djG9KKqXJ8YCOTz00m6502axCmQsTZrO56VsbyHLDz5FJWncRM0Ns48bJ7SgYQdwrUgVQtjKq0U58xRVs7m2YLRqiBgP1BtEFiIXuZl7jnUbvunX5E0cz8d7n&__hstc=231796288.d32e8f6e718c79b7cda572f475bce4af.1610651041166.1610651041166.1610651041166.1&__hssc=231796288.27.1610651041167&__hsfp=2873996859&contentType=landing-page\" title=\"Get a Quote\"><strong>Get a Quote</strong></a></p>"
-  - id: "john-lynch"
-    web:
-      metaTitle: "Meet Our Reps"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "john-lynch"
-      path: "/landing_pages/john-lynch/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Meet Our Reps"
-      sub_header: "John Lynch"
-      featured_image: "3-f894d41-wcdhpb"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: "<h2 id=\"johnlynch\">John Lynch</h2>\n<p>John loves to travel and cook. He also prides himself on providing the best possible customer service!</p>\n<p><strong>Quick Facts</strong></p>\n<ul>\n<li>John is a <a href=\"https://licenseesearch.fldfs.com/Licensee/1914717\">fully licensed producer in Florida</a>.</li>\n<li>John has helped hundreds of customers get affordable coverage for their home.</li>\n<li>Kin is the <a href=\"/reviews/\">top-rated insurance company</a> in Florida.</li>\n</ul>\n<p><a href=\"/cs/c/?cta_guid=59fb19a4-94b0-43e6-af1b-3d91dc65bb85&signature=AAH58kHgqEXjR_M9ZUIA9RJtxKqLtJdRdw&pageId=27474475646&placement_guid=db986f48-78b4-4e4b-8cfd-53a65b4f6815&click=514d9d71-92ef-42ea-9aab-7911fb9e2292&hsutk=806db31570f56b9e0bf881d51f096e89&canon=https%3A%2F%2Fwww.kin.com%2Fjohn-lynch&portal_id=5763266&redirect_url=APefjpEv5OYLq2AXtDkz0gqX97GzELn4Jtxan5rLud7WcsPf_HLX7jMWJWMEYucq_2VTvRdQijYQdmD0Yua46somSG84msaEi0Cr0ptnsM6k3jPyzTwstS2aLQBuVBAZtrh_GZj0f5JqbAXQTmLaPG6ZpchbOo4cLWHwM_oddIQxe6tOZru7j-vNnYEMoe26ITy-V9VnuQO8ljtxHR7tOhd8rMt0jhpSWoFbrhWNdYNrqz2LXaFrtk4eeupmopc84J5HkIE3tCM6&__hstc=231796288.806db31570f56b9e0bf881d51f096e89.1610476663903.1610581689623.1610643242958.7&__hssc=231796288.5.1610643242958&__hsfp=2900156266&contentType=landing-page\" title=\"Get a Quote\"><strong>Get a Quote</strong></a></p>"
-  - id: "kin-from-a-friend"
-    web:
-      metaTitle: "Your Friends Love Kin and We Think You Will Too"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "kin-from-a-friend"
-      path: "/landing_pages/kin-from-a-friend/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Your Friends Love Kin and We Think You Will Too"
-      sub_header: "Home insurance can be inexpensive, easy, and fast. Get a quote from a trusted carrier in seconds and see how much you can save. Your friends already have!"
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "kin-partners"
-    web:
-      metaTitle: "Kin is a whole new way to Home Insurance"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "kin-partners"
-      path: "/landing_pages/kin-partners/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Kin is a whole new way to Home Insurance"
-      sub_header: "Enter your address below and see your quote in seconds. Customers save 17% on average."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: "<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-MJ.png\" alt=\"\" /></p>\n<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-Debra-West.png\" alt=\"\" /></p>"
-  - id: "kin-vs-allstate"
-    web:
-      metaTitle: "Save $500 When You Apply Online*"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "kin-vs-allstate"
-      path: "/landing_pages/kin-vs-allstate/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Save $500 When You Apply Online*"
-      sub_header: "The average homeowner who switches to Kin from a competitor like AllState saves $500.  At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "kin-vs-geico"
-    web:
-      metaTitle: "Save $500 When You Apply Online*"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "kin-vs-geico"
-      path: "/landing_pages/kin-vs-geico/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Save $500 When You Apply Online*"
-      sub_header: "The average homeowner who switches to Kin from a competitor like Geico saves $500.  At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "kin-vs-progressive"
-    web:
-      metaTitle: "Save $500 When You Apply Online*"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "kin-vs-progressive"
-      path: "/landing_pages/kin-vs-progressive/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Save $500 When You Apply Online*"
-      sub_header: "The average homeowner who switches to Kin from a competitor like Progressive saves $500.  At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "kin-vs-state-farm"
-    web:
-      metaDescription: ""
-      metaTitle: "Save $500 When You Apply Online*"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "kin-vs-state-farm"
-      path: "/landing_pages/kin-vs-state-farm/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Save $500 When You Apply Online*"
-      sub_header: "The average homeowner who switches to Kin from a competitor like State Farm saves $500.  At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: "1"
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: "1"
-      related_posts: null
-      body: ""
-  - id: "lendingtree"
-    web:
-      metaTitle: "lendingtree"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "lendingtree"
-      path: "/landing_pages/lendingtree/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: null
-      sub_header: "LendingTree & Kin believe that home insurance can be inexpensive, easy, and fast. Just enter your address below and see a quote in seconds."
-      featured_image: "3-f894d18-cswqdn"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "manufactured-home"
-    web:
-      metaTitle: "Florida Manufactured Home Insurance"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "manufactured-home"
-      path: "/landing_pages/manufactured-home/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Florida Manufactured Home Insurance"
-      sub_header: "Enter your address for a manufactured home insurance quote, and see how much you can save on your coverage."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "mobile-home"
-    web:
-      metaTitle: "Florida Mobile Home Insurance"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "mobile-home"
-      path: "/landing_pages/mobile-home/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Florida Mobile Home Insurance"
-      sub_header: "Enter your address for a mobile home insurance quote, and see how much you can save on your coverage."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "mymove"
-    web:
-      metaTitle: "Congrats on Your New Home. Now Let's Protect Your Investiment."
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "mymove"
-      path: "/landing_pages/mymove/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Congrats on Your New Home. Now Let's Protect Your Investiment."
-      sub_header: "The average customer saves $500 after switching to Kin. See how much you’ll save."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "newspapers"
-    web:
-      metaTitle: "Home Insurance Costs Are Through the Roof. Kin Can Help."
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "newspapers"
-      path: "/landing_pages/newspapers/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Home Insurance Costs Are Through the Roof. Kin Can Help."
-      sub_header: "The average customer saves $500 after switching to Kin. See how much you’ll save."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "newyear"
-    web:
-      metaTitle: "Manufactured Home Insurance Experts"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "newyear"
-      path: "/landing_pages/newyear/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Manufactured Home Insurance Experts"
-      sub_header: "Enter your address, and our agents will use hundreds of data points to customize your policy."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "npr"
-    web:
-      metaTitle: "Welcome, NPR Listeners!"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "npr"
-      path: "/landing_pages/npr/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Welcome, NPR Listeners!"
-      sub_header: "Ready to see how easy homeowners insurance can be? Enter your address and let's get started."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "opcity"
-    web:
-      metaTitle: "opcity"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "opcity"
-      path: "/landing_pages/opcity/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: null
-      sub_header: "OpCity & Kin believe home insurance should be inexpensive, easy, and fast. Just enter your address and see a quote in seconds."
-      featured_image: "3-f894d0e-vjjvk9"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "orlando-specialists"
-    web:
-      metaTitle: "Orlando Home Insurance Experts"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "orlando-specialists"
-      path: "/landing_pages/orlando-specialists/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Orlando Home Insurance Experts"
-      sub_header: "Enter your address below, see your quote in seconds. Customers save up to 17%."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "pandora"
-    web:
-      metaTitle: "Florida Home Insurance Experts"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "pandora"
-      path: "/landing_pages/pandora/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Florida Home Insurance Experts"
-      sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quickly."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "protect-my-home"
-    web:
-      metaTitle: "Protect Your Home with BMP + Kin"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "protect-my-home"
-      path: "/landing_pages/protect-my-home/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Protect Your Home with BMP + Kin"
-      sub_header: "Home insurance can be inexpensive, easy, and fast. Get a quote with just your address below and save 20% in seconds. Your friends already have!"
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "realtors"
-    web:
-      metaTitle: "Kin Partners with Realtors!"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "realtors"
-      path: "/landing_pages/realtors/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Kin Partners with Realtors!"
-      sub_header: "Your clients get accurate, affordable insurance in moments, while you get peace of mind and faster commissions. Email us to get more details."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "save-on-home-insurance"
-    web:
-      metaTitle: "Save On Your Home Insurance"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "save-on-home-insurance"
-      path: "/landing_pages/save-on-home-insurance/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Save On Your Home Insurance"
-      sub_header: "Enter your address to learn how much you can save on your home insurance."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "save250"
-    web:
-      metaTitle: "Save $250 When You Apply Online*"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "save250"
-      path: "/landing_pages/save250/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Save $250 When You Apply Online*"
-      sub_header: "Protecting your home has never been easier. At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "save500"
-    web:
-      metaDescription: ""
-      metaTitle: "Save an Average of $500 When You Apply Online*"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "save500"
-      path: "/landing_pages/save500/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Save $500 When You Apply Online*"
-      sub_header: "Protecting your home has never been easier. At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: "1"
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: "1"
-      related_posts: null
-      body: ""
-  - id: "solar"
-    web:
-      metaTitle: "Save on Energy. Save on Home Insurance."
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "solar"
-      path: "/landing_pages/solar/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Save on Energy. Save on Home Insurance."
-      sub_header: "Take your solar savings further with Kin. We've got your solar panels covered, and we help you save $500 on average on your home insurance. Enter your address and get a quote today."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "tampa-specialists"
-    web:
-      metaTitle: "Tampa Home Insurance Experts"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "tampa-specialists"
-      path: "/landing_pages/tampa-specialists/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Tampa Home Insurance Experts"
-      sub_header: "Enter your address below to see your quote in seconds. Customers save up to 20%."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "texas-quote"
-    web:
-      metaTitle: "Texas Home Insurance Experts"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "texas-quote"
-      path: "/landing_pages/texas-quote/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Texas Home Insurance Experts"
-      sub_header: "Enter your address below and see your quote in seconds. Customers save 17% on average."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "texas-quotes"
-    web:
-      metaTitle: "Texas Home Insurance Experts"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "texas-quotes"
-      path: "/landing_pages/texas-quotes/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Texas Home Insurance Experts"
-      sub_header: "Enter your address below, see your quote in seconds. Customers save 17% on average."
-      featured_image: "3-f894d93-85hskg"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "texas-specialists"
-    web:
-      metaTitle: "The Texas Home Insurance Experts"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "texas-specialists"
-      path: "/landing_pages/texas-specialists/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "The Texas Home Insurance Experts"
-      sub_header: "Enter your address, and we'll use hundreds of data points to get you a custom quote."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
-  - id: "third-nail"
-    web:
-      metaTitle: "One Nail Could Save You Up to 50% on Home Insurance"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "third-nail"
-      path: "/landing_pages/third-nail/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "One Nail Could Save You Up to 50% on Home Insurance"
-      sub_header: "Our trusted partner LGT Restoration Services, Inc. can upgrade your toe nail roof-to-wall connection to hurricane clips simply by adding a third nail. That quick upgrade makes your home safer and helps you save 20 to 50 percent on home insurance."
-      featured_image: "3-f894c34-mdzp4w"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: "<h2 id=\"getyourfreeconsultation\">Get Your Free Consultation</h2>\n<p>When you sign up for a consultation with LGT, you’ll get a <strong>$100 discount</strong> from us on your third nail installation. We’ll send you a new insurance quote with your projected savings, too.</p>\n<p><strong>First Name*</strong></p>\n<p><strong>Last Name*</strong></p>\n<p><strong>Email*</strong></p>\n<p><strong>Phone Number*</strong></p>"
-  - id: "tph"
-    web:
-      metaDescription: ""
-      metaTitle: "Save $500 When You Apply Online*"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "tph"
-      path: "/landing_pages/tph/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Save $500 When You Apply Online*"
-      sub_header: "Protecting your home has never been easier. At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
-      featured_image: "3-f89489a-fvnb6l"
-      is_feature_clipped: "1"
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: "1"
-      related_posts: null
-      body: ""
-  - id: "umbrella-giveaway-promo"
-    web:
-      metaDescription: ""
-      metaTitle: "Umbrella Giveaway Promo"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "umbrella-giveaway-promo"
-      path: "/landing_pages/umbrella-giveaway-promo/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: null
-      sub_header: null
-      featured_image: null
-      is_feature_clipped: "1"
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: "1"
-      related_posts: null
-      body: ""
-  - id: "vivint-quote"
-    web:
-      metaTitle: "Kin is proud to partner with"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "vivint-quote"
-      path: "/landing_pages/vivint-quote/"
-      parent: "/landing_pages/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Kin is proud to partner with"
-      sub_header: "Enter your address below to see your quote in seconds. Customers save an average of 20%."
-      featured_image: "3-f894d5a-sqfzcj"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: null
-      related_posts: null
-      body: ""
+- id: "alabama-specialists"
+  web:
+    metaTitle: "Alabama Home Insurance Experts"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "alabama-specialists"
+    path: "/landing/alabama-specialists/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Alabama Home Insurance Experts"
+    sub_header: "Enter your address, and we'll use hundreds of data points to get you a custom quote."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "better-home-insurance"
+  web:
+    metaTitle: "All We Need Is An Address"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "better-home-insurance"
+    path: "/landing/better-home-insurance/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "All We Need Is An Address"
+    sub_header: "Home insurance can be cheap, easy, and fast. Get a quote with just your address below, and save 20% in seconds."
+    featured_image: "3-f894cc0-tlmb3c"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: "<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-MJ.png\" alt=\"\" /></p>\n<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-Debra-West.png\" alt=\"\" /></p>"
+- id: "california-specialists"
+  web:
+    metaTitle: "California Home Insurance Experts"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "california-specialists"
+    path: "/landing/california-specialists/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "California Home Insurance Experts"
+    sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quickly."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "condo-specialists"
+  web:
+    metaTitle: "Florida Condo Insurance Experts"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "condo-specialists"
+    path: "/landing/condo-specialists/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Florida Condo Insurance Experts"
+    sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quick"
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "consumersadvocate"
+  web:
+    metaDescription: ""
+    metaTitle: "Save $500 When You Apply Online*"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "consumersadvocate"
+    path: "/landing/consumersadvocate/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Save $500 When You Apply Online*"
+    sub_header: "Protecting your home has never been easier. At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: "1"
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: "1"
+    related_posts: null
+    body: ""
+- id: "fixing"
+  web:
+    metaTitle: "We're Fixing Home Insurance."
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "fixing"
+    path: "/landing/fixing/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "We're Fixing Home Insurance."
+    sub_header: "Enter your address, and we'll use hundreds of data points to get you a custom quote."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "florida-condo"
+  web:
+    metaTitle: "Florida Condo Insurance Experts"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "florida-condo"
+    path: "/landing/florida-condo/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Florida Condo Insurance Experts"
+    sub_header: "Enter your address, and we'll use hundreds of data points to get you a custom quote."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "florida-quote-kin-2"
+  web:
+    metaTitle: "Get Your Quote in 8.62 seconds"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "florida-quote-kin-2"
+    path: "/landing/florida-quote-kin-2/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Get Your Quote in 8.62 seconds"
+    sub_header: "Enter your address below and see your quote in seconds. See how much you can save!"
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "florida-specialists-1-1"
+  web:
+    metaTitle: "Home Insurance Costs Are Through the Roof. Kin Can Help."
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "florida-specialists-1-1"
+    path: "/landing/florida-specialists-1-1/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Home Insurance Costs Are Through the Roof. Kin Can Help."
+    sub_header: "The average customer saves $500 after switching to Kin. See how much you’ll save."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "florida-specialists-1"
+  web:
+    metaTitle: "Florida Home Insurance Experts"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "florida-specialists-1"
+    path: "/landing/florida-specialists-1/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Florida Home Insurance Experts"
+    sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quickly."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "florida-specialists-3"
+  web:
+    metaTitle: "Enter Your Home Address"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "florida-specialists-3"
+    path: "/landing/florida-specialists-3/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Enter Your Home Address"
+    sub_header: null
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "florida-specialists-spotify-2"
+  web:
+    metaTitle: "The Home for Better Insurance"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "florida-specialists-spotify-2"
+    path: "/landing/florida-specialists-spotify-2/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "The Home for Better Insurance"
+    sub_header: "Kin’s customers rate us 4.8 out of 5 on third-party review sites. The average Florida insurer is less than 3 out of 5."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "florida-specialists-spotify"
+  web:
+    metaTitle: "The Home for Better Insurance"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "florida-specialists-spotify"
+    path: "/landing/florida-specialists-spotify/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "The Home for Better Insurance"
+    sub_header: "The average customer saves $500 after switching to Kin. See how much you’ll save."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "florida-specialists"
+  web:
+    metaTitle: "Florida Home Insurance Experts"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "florida-specialists"
+    path: "/landing/florida-specialists/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Florida Home Insurance Experts"
+    sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quickly."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "free-vivint-sensors"
+  web:
+    metaTitle: "Smart Home Insurance for Smart Homeowners"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "free-vivint-sensors"
+    path: "/landing/free-vivint-sensors/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Smart Home Insurance for Smart Homeowners"
+    sub_header: "Get four complimentary water detection sensors when you get a home insurance quote from Kin. No obligations – just free home protection, exclusively for Vivint Customers."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "gators"
+  web:
+    metaTitle: "gators"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "gators"
+    path: "/landing/gators/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: null
+    sub_header: "Save up to 20% on your home insurance! Just enter your address below to get started."
+    featured_image: "3-f894bed-5nd6ql"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "georgia-specialists"
+  web:
+    metaTitle: "Georgia's Home Insurance Experts"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "georgia-specialists"
+    path: "/landing/georgia-specialists/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Georgia's Home Insurance Experts"
+    sub_header: "Enter your address below to see your custom quote in seconds. Experience the next generation of home insurance."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "help"
+  web:
+    metaTitle: "Your Capitol Preferred Policy Is Getting Cancelled"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "help"
+    path: "/landing/help/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Your Capitol Preferred Policy Is Getting Cancelled"
+    sub_header: "Don't risk a lapse in coverage. Kin's insurance experts are standing by to help. Get reliable, affordable coverage today."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "homebay"
+  web:
+    metaTitle: "homebay"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "homebay"
+    path: "/landing/homebay/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: null
+    sub_header: "Home Bay & Kin believe that home insurance can be inexpensive, easy, and fast. Just enter your address below and see a quote in seconds."
+    featured_image: "3-f894d1c-ktz9v0"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "homeowners"
+  web:
+    metaTitle: "Homeowners Insurance Made Easy"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "homeowners"
+    path: "/landing/homeowners/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Homeowners Insurance Made Easy"
+    sub_header: null
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "insurance-experts"
+  web:
+    metaTitle: "Home Insurance Experts"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "insurance-experts"
+    path: "/landing/insurance-experts/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Home Insurance Experts"
+    sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quickly."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "jamie-ahern"
+  web:
+    metaTitle: "Meet Our Reps"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "jamie-ahern"
+    path: "/landing/jamie-ahern/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Meet Our Reps"
+    sub_header: "Jamie Ahern"
+    featured_image: "3-f894c5f-fw2gbn"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: "<h2 id=\"jamieahern\">Jamie Ahern</h2>\n<p>Jamie likes long walks on the beach and selling insurance.</p>\n<p><strong>Quick Facts</strong></p>\n<ul>\n<li>Jamie is a <a href=\"https://licenseesearch.fldfs.com/Licensee/1842736\">fully licensed producer in Florida</a>.</li>\n<li>Jamie has helped hundreds of customers get affordable coverage for their home.</li>\n<li>Kin is the <a href=\"/reviews/\">top-rated insurance company</a> in Florida.</li>\n</ul>\n<p><a href=\"/cs/c/?cta_guid=59fb19a4-94b0-43e6-af1b-3d91dc65bb85&signature=AAH58kFGpuF02Y8Mxi4Fm4YoeweCbpTNhw&pageId=26402264411&placement_guid=db986f48-78b4-4e4b-8cfd-53a65b4f6815&click=0df1edef-e9d2-42a0-a758-995b364158a5&hsutk=806db31570f56b9e0bf881d51f096e89&canon=https%3A%2F%2Fwww.kin.com%2Fjamie-ahern&portal_id=5763266&redirect_url=APefjpG-CNJhcF3m6UkDAc0Ni5CYgYwxVHruuiW6KSm-E6q0xaVYQQc1JMceIq6nu7DTufr4PFVv2hsRpR9A25unikhhuh3Xsf7FJpQIovAk9eyunxpbRRdVbcUW3r2DdXMUfAW4MCaZ8Z_iNp6OedjoygMJ7ZPPPw3Ad1nXaP8vTdNVl6WpRaQR0--4KbIGfQ5ML-o9VdLk54cXRL92D2UeM8NFmJ162uYGSpJDI2AX0nWYYfLUH9VeTm55Qn8EkF-U26G0ZNwY\" title=\"Get a Quote\"><strong>Get a Quote</strong></a></p>"
+- id: "john-lynch-1"
+  web:
+    metaTitle: "Meet Our Reps"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "john-lynch-1"
+    path: "/landing/john-lynch-1/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Meet Our Reps"
+    sub_header: null
+    featured_image: "3-f894d41-wcdhpb"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: "<h2 id=\"johnlynch\">John Lynch</h2>\n<p>John loves to travel and cook. He also prides himself on providing the best possible customer service!</p>\n<p><strong>Quick Facts</strong></p>\n<ul>\n<li>John is a <a href=\"https://licenseesearch.fldfs.com/Licensee/1914717\">fully licensed producer in Florida</a>.</li>\n<li>John has helped hundreds of customers get affordable coverage for their home.</li>\n<li>Kin is the <a href=\"/reviews/\">top-rated insurance company</a> in Florida.</li>\n</ul>\n<p><a href=\"/cs/c/?cta_guid=59fb19a4-94b0-43e6-af1b-3d91dc65bb85&signature=AAH58kHIsyPTUQgARMsv5DQ_p4lqFqPFcw&pageId=27474475646&placement_guid=db986f48-78b4-4e4b-8cfd-53a65b4f6815&click=58950015-e3a6-4bf8-a969-41d5281801a3&hsutk=d32e8f6e718c79b7cda572f475bce4af&canon=https%3A%2F%2Fwww.kin.com%2Fjohn-lynch&portal_id=5763266&redirect_url=APefjpEWwjm5cQTHhnuwEJ4LNjY9A-MOFIL7a_WUe-QkWKpnyzPBv1Xbiy8sLLISo23uTLbog2TpHgMxTP1oNjYhVvS2Ib2o_gblU_ZN-7pfEHr5bt_EzcmRXwDQPUrzpjnf0cZBEDQcqLE9n72djG9KKqXJ8YCOTz00m6502axCmQsTZrO56VsbyHLDz5FJWncRM0Ns48bJ7SgYQdwrUgVQtjKq0U58xRVs7m2YLRqiBgP1BtEFiIXuZl7jnUbvunX5E0cz8d7n&__hstc=231796288.d32e8f6e718c79b7cda572f475bce4af.1610651041166.1610651041166.1610651041166.1&__hssc=231796288.27.1610651041167&__hsfp=2873996859&contentType=landing-page\" title=\"Get a Quote\"><strong>Get a Quote</strong></a></p>"
+- id: "john-lynch"
+  web:
+    metaTitle: "Meet Our Reps"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "john-lynch"
+    path: "/landing/john-lynch/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Meet Our Reps"
+    sub_header: "John Lynch"
+    featured_image: "3-f894d41-wcdhpb"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: "<h2 id=\"johnlynch\">John Lynch</h2>\n<p>John loves to travel and cook. He also prides himself on providing the best possible customer service!</p>\n<p><strong>Quick Facts</strong></p>\n<ul>\n<li>John is a <a href=\"https://licenseesearch.fldfs.com/Licensee/1914717\">fully licensed producer in Florida</a>.</li>\n<li>John has helped hundreds of customers get affordable coverage for their home.</li>\n<li>Kin is the <a href=\"/reviews/\">top-rated insurance company</a> in Florida.</li>\n</ul>\n<p><a href=\"/cs/c/?cta_guid=59fb19a4-94b0-43e6-af1b-3d91dc65bb85&signature=AAH58kHgqEXjR_M9ZUIA9RJtxKqLtJdRdw&pageId=27474475646&placement_guid=db986f48-78b4-4e4b-8cfd-53a65b4f6815&click=514d9d71-92ef-42ea-9aab-7911fb9e2292&hsutk=806db31570f56b9e0bf881d51f096e89&canon=https%3A%2F%2Fwww.kin.com%2Fjohn-lynch&portal_id=5763266&redirect_url=APefjpEv5OYLq2AXtDkz0gqX97GzELn4Jtxan5rLud7WcsPf_HLX7jMWJWMEYucq_2VTvRdQijYQdmD0Yua46somSG84msaEi0Cr0ptnsM6k3jPyzTwstS2aLQBuVBAZtrh_GZj0f5JqbAXQTmLaPG6ZpchbOo4cLWHwM_oddIQxe6tOZru7j-vNnYEMoe26ITy-V9VnuQO8ljtxHR7tOhd8rMt0jhpSWoFbrhWNdYNrqz2LXaFrtk4eeupmopc84J5HkIE3tCM6&__hstc=231796288.806db31570f56b9e0bf881d51f096e89.1610476663903.1610581689623.1610643242958.7&__hssc=231796288.5.1610643242958&__hsfp=2900156266&contentType=landing-page\" title=\"Get a Quote\"><strong>Get a Quote</strong></a></p>"
+- id: "kin-from-a-friend"
+  web:
+    metaTitle: "Your Friends Love Kin and We Think You Will Too"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "kin-from-a-friend"
+    path: "/landing/kin-from-a-friend/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Your Friends Love Kin and We Think You Will Too"
+    sub_header: "Home insurance can be inexpensive, easy, and fast. Get a quote from a trusted carrier in seconds and see how much you can save. Your friends already have!"
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "kin-partners"
+  web:
+    metaTitle: "Kin is a whole new way to Home Insurance"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "kin-partners"
+    path: "/landing/kin-partners/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Kin is a whole new way to Home Insurance"
+    sub_header: "Enter your address below and see your quote in seconds. Customers save 17% on average."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: "<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-MJ.png\" alt=\"\" /></p>\n<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-Debra-West.png\" alt=\"\" /></p>"
+- id: "kin-vs-allstate"
+  web:
+    metaTitle: "Save $500 When You Apply Online*"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "kin-vs-allstate"
+    path: "/landing/kin-vs-allstate/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Save $500 When You Apply Online*"
+    sub_header: "The average homeowner who switches to Kin from a competitor like AllState saves $500.  At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "kin-vs-geico"
+  web:
+    metaTitle: "Save $500 When You Apply Online*"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "kin-vs-geico"
+    path: "/landing/kin-vs-geico/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Save $500 When You Apply Online*"
+    sub_header: "The average homeowner who switches to Kin from a competitor like Geico saves $500.  At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "kin-vs-progressive"
+  web:
+    metaTitle: "Save $500 When You Apply Online*"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "kin-vs-progressive"
+    path: "/landing/kin-vs-progressive/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Save $500 When You Apply Online*"
+    sub_header: "The average homeowner who switches to Kin from a competitor like Progressive saves $500.  At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "kin-vs-state-farm"
+  web:
+    metaDescription: ""
+    metaTitle: "Save $500 When You Apply Online*"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "kin-vs-state-farm"
+    path: "/landing/kin-vs-state-farm/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Save $500 When You Apply Online*"
+    sub_header: "The average homeowner who switches to Kin from a competitor like State Farm saves $500.  At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: "1"
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: "1"
+    related_posts: null
+    body: ""
+- id: "lendingtree"
+  web:
+    metaTitle: "lendingtree"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "lendingtree"
+    path: "/landing/lendingtree/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: null
+    sub_header: "LendingTree & Kin believe that home insurance can be inexpensive, easy, and fast. Just enter your address below and see a quote in seconds."
+    featured_image: "3-f894d18-cswqdn"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "manufactured-home"
+  web:
+    metaTitle: "Florida Manufactured Home Insurance"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "manufactured-home"
+    path: "/landing/manufactured-home/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Florida Manufactured Home Insurance"
+    sub_header: "Enter your address for a manufactured home insurance quote, and see how much you can save on your coverage."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "mobile-home"
+  web:
+    metaTitle: "Florida Mobile Home Insurance"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "mobile-home"
+    path: "/landing/mobile-home/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Florida Mobile Home Insurance"
+    sub_header: "Enter your address for a mobile home insurance quote, and see how much you can save on your coverage."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "mymove"
+  web:
+    metaTitle: "Congrats on Your New Home. Now Let's Protect Your Investiment."
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "mymove"
+    path: "/landing/mymove/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Congrats on Your New Home. Now Let's Protect Your Investiment."
+    sub_header: "The average customer saves $500 after switching to Kin. See how much you’ll save."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "newspapers"
+  web:
+    metaTitle: "Home Insurance Costs Are Through the Roof. Kin Can Help."
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "newspapers"
+    path: "/landing/newspapers/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Home Insurance Costs Are Through the Roof. Kin Can Help."
+    sub_header: "The average customer saves $500 after switching to Kin. See how much you’ll save."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "newyear"
+  web:
+    metaTitle: "Manufactured Home Insurance Experts"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "newyear"
+    path: "/landing/newyear/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Manufactured Home Insurance Experts"
+    sub_header: "Enter your address, and our agents will use hundreds of data points to customize your policy."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "npr"
+  web:
+    metaTitle: "Welcome, NPR Listeners!"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "npr"
+    path: "/landing/npr/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Welcome, NPR Listeners!"
+    sub_header: "Ready to see how easy homeowners insurance can be? Enter your address and let's get started."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "opcity"
+  web:
+    metaTitle: "opcity"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "opcity"
+    path: "/landing/opcity/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: null
+    sub_header: "OpCity & Kin believe home insurance should be inexpensive, easy, and fast. Just enter your address and see a quote in seconds."
+    featured_image: "3-f894d0e-vjjvk9"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "orlando-specialists"
+  web:
+    metaTitle: "Orlando Home Insurance Experts"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "orlando-specialists"
+    path: "/landing/orlando-specialists/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Orlando Home Insurance Experts"
+    sub_header: "Enter your address below, see your quote in seconds. Customers save up to 17%."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "pandora"
+  web:
+    metaTitle: "Florida Home Insurance Experts"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "pandora"
+    path: "/landing/pandora/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Florida Home Insurance Experts"
+    sub_header: "Enter your address, and our agents will use hundreds of data points to shop your insurance for you and present you with a custom policy quickly."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "protect-my-home"
+  web:
+    metaTitle: "Protect Your Home with BMP + Kin"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "protect-my-home"
+    path: "/landing/protect-my-home/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Protect Your Home with BMP + Kin"
+    sub_header: "Home insurance can be inexpensive, easy, and fast. Get a quote with just your address below and save 20% in seconds. Your friends already have!"
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "realtors"
+  web:
+    metaTitle: "Kin Partners with Realtors!"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "realtors"
+    path: "/landing/realtors/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Kin Partners with Realtors!"
+    sub_header: "Your clients get accurate, affordable insurance in moments, while you get peace of mind and faster commissions. Email us to get more details."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "save-on-home-insurance"
+  web:
+    metaTitle: "Save On Your Home Insurance"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "save-on-home-insurance"
+    path: "/landing/save-on-home-insurance/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Save On Your Home Insurance"
+    sub_header: "Enter your address to learn how much you can save on your home insurance."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "save250"
+  web:
+    metaTitle: "Save $250 When You Apply Online*"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "save250"
+    path: "/landing/save250/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Save $250 When You Apply Online*"
+    sub_header: "Protecting your home has never been easier. At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "save500"
+  web:
+    metaDescription: ""
+    metaTitle: "Save an Average of $500 When You Apply Online*"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "save500"
+    path: "/landing/save500/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Save $500 When You Apply Online*"
+    sub_header: "Protecting your home has never been easier. At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: "1"
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: "1"
+    related_posts: null
+    body: ""
+- id: "solar"
+  web:
+    metaTitle: "Save on Energy. Save on Home Insurance."
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "solar"
+    path: "/landing/solar/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Save on Energy. Save on Home Insurance."
+    sub_header: "Take your solar savings further with Kin. We've got your solar panels covered, and we help you save $500 on average on your home insurance. Enter your address and get a quote today."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "tampa-specialists"
+  web:
+    metaTitle: "Tampa Home Insurance Experts"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "tampa-specialists"
+    path: "/landing/tampa-specialists/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Tampa Home Insurance Experts"
+    sub_header: "Enter your address below to see your quote in seconds. Customers save up to 20%."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "texas-quote"
+  web:
+    metaTitle: "Texas Home Insurance Experts"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "texas-quote"
+    path: "/landing/texas-quote/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Texas Home Insurance Experts"
+    sub_header: "Enter your address below and see your quote in seconds. Customers save 17% on average."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "texas-quotes"
+  web:
+    metaTitle: "Texas Home Insurance Experts"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "texas-quotes"
+    path: "/landing/texas-quotes/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Texas Home Insurance Experts"
+    sub_header: "Enter your address below, see your quote in seconds. Customers save 17% on average."
+    featured_image: "3-f894d93-85hskg"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "texas-specialists"
+  web:
+    metaTitle: "The Texas Home Insurance Experts"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "texas-specialists"
+    path: "/landing/texas-specialists/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "The Texas Home Insurance Experts"
+    sub_header: "Enter your address, and we'll use hundreds of data points to get you a custom quote."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
+- id: "third-nail"
+  web:
+    metaTitle: "One Nail Could Save You Up to 50% on Home Insurance"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "third-nail"
+    path: "/landing/third-nail/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "One Nail Could Save You Up to 50% on Home Insurance"
+    sub_header: "Our trusted partner LGT Restoration Services, Inc. can upgrade your toe nail roof-to-wall connection to hurricane clips simply by adding a third nail. That quick upgrade makes your home safer and helps you save 20 to 50 percent on home insurance."
+    featured_image: "3-f894c34-mdzp4w"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: "<h2 id=\"getyourfreeconsultation\">Get Your Free Consultation</h2>\n<p>When you sign up for a consultation with LGT, you’ll get a <strong>$100 discount</strong> from us on your third nail installation. We’ll send you a new insurance quote with your projected savings, too.</p>\n<p><strong>First Name*</strong></p>\n<p><strong>Last Name*</strong></p>\n<p><strong>Email*</strong></p>\n<p><strong>Phone Number*</strong></p>"
+- id: "tph"
+  web:
+    metaDescription: ""
+    metaTitle: "Save $500 When You Apply Online*"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "tph"
+    path: "/landing/tph/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Save $500 When You Apply Online*"
+    sub_header: "Protecting your home has never been easier. At Kin, we tailor your policy for your home—and you save money because you only pay for what you need."
+    featured_image: "3-f89489a-fvnb6l"
+    is_feature_clipped: "1"
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: "1"
+    related_posts: null
+    body: ""
+- id: "umbrella-giveaway-promo"
+  web:
+    metaDescription: ""
+    metaTitle: "Umbrella Giveaway Promo"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "umbrella-giveaway-promo"
+    path: "/landing/umbrella-giveaway-promo/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: null
+    sub_header: null
+    featured_image: null
+    is_feature_clipped: "1"
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: "1"
+    related_posts: null
+    body: ""
+- id: "vivint-quote"
+  web:
+    metaTitle: "Kin is proud to partner with"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "vivint-quote"
+    path: "/landing/vivint-quote/"
+    parent: "/landing/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Kin is proud to partner with"
+    sub_header: "Enter your address below to see your quote in seconds. Customers save an average of 20%."
+    featured_image: "3-f894d5a-sqfzcj"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts: null
+    body: ""
