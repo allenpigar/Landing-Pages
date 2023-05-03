@@ -1,4 +1,4 @@
-- id: "alabama-specialists"
+- id: "/landing/alabama-specialists"/landing/
   web:
     metaTitle: "Alabama Home Insurance Experts"
     metaKeywords: null
@@ -24,9 +24,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "better-home-insurance"
+- id: "/landing/better-home-insurance"
   web:
     metaTitle: "All We Need Is An Address"
     metaKeywords: null
@@ -52,9 +54,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: "<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-MJ.png\" alt=\"\" /></p>\n<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-Debra-West.png\" alt=\"\" /></p>"
-- id: "california-specialists"
+- id: "/landing/california-specialists"
   web:
     metaTitle: "California Home Insurance Experts"
     metaKeywords: null
@@ -80,9 +84,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "condo-specialists"
+- id: "/landing/condo-specialists"
   web:
     metaTitle: "Florida Condo Insurance Experts"
     metaKeywords: null
@@ -108,9 +114,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "consumersadvocate"
+- id: "/landing/consumersadvocate"
   web:
     metaDescription: ""
     metaTitle: "Save $500 When You Apply Online*"
@@ -137,9 +145,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: "1"
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "fixing"
+- id: "/landing/fixing"
   web:
     metaTitle: "We're Fixing Home Insurance."
     metaKeywords: null
@@ -165,9 +175,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "florida-condo"
+- id: "/landing/florida-condo"
   web:
     metaTitle: "Florida Condo Insurance Experts"
     metaKeywords: null
@@ -193,9 +205,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "florida-quote-kin-2"
+- id: "/landing/florida-quote-kin-2"
   web:
     metaTitle: "Get Your Quote in 8.62 seconds"
     metaKeywords: null
@@ -221,9 +235,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "florida-specialists-1-1"
+- id: "/landing/florida-specialists-1-1"
   web:
     metaTitle: "Home Insurance Costs Are Through the Roof. Kin Can Help."
     metaKeywords: null
@@ -249,9 +265,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "florida-specialists-1"
+- id: "/landing/florida-specialists-1"
   web:
     metaTitle: "Florida Home Insurance Experts"
     metaKeywords: null
@@ -277,9 +295,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "florida-specialists-3"
+- id: "/landing/florida-specialists-3"
   web:
     metaTitle: "Enter Your Home Address"
     metaKeywords: null
@@ -305,9 +325,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "florida-specialists-spotify-2"
+- id: "/landing/florida-specialists-spotify-2"
   web:
     metaTitle: "The Home for Better Insurance"
     metaKeywords: null
@@ -333,9 +355,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "florida-specialists-spotify"
+- id: "/landing/florida-specialists-spotify"
   web:
     metaTitle: "The Home for Better Insurance"
     metaKeywords: null
@@ -361,9 +385,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "florida-specialists"
+- id: "/landing/florida-specialists"
   web:
     metaTitle: "Florida Home Insurance Experts"
     metaKeywords: null
@@ -389,9 +415,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "free-vivint-sensors"
+- id: "/landing/free-vivint-sensors"
   web:
     metaTitle: "Smart Home Insurance for Smart Homeowners"
     metaKeywords: null
@@ -417,9 +445,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "gators"
+- id: "/landing/gators"
   web:
     metaTitle: "gators"
     metaKeywords: null
@@ -445,9 +475,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "georgia-specialists"
+- id: "/landing/georgia-specialists"
   web:
     metaTitle: "Georgia's Home Insurance Experts"
     metaKeywords: null
@@ -473,9 +505,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "help"
+- id: "/landing/help"
   web:
     metaTitle: "Your Capitol Preferred Policy Is Getting Cancelled"
     metaKeywords: null
@@ -501,9 +535,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "homebay"
+- id: "/landing/homebay"
   web:
     metaTitle: "homebay"
     metaKeywords: null
@@ -529,9 +565,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "homeowners"
+- id: "/landing/homeowners"
   web:
     metaTitle: "Homeowners Insurance Made Easy"
     metaKeywords: null
@@ -557,9 +595,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "insurance-experts"
+- id: "/landing/insurance-experts"
   web:
     metaTitle: "Home Insurance Experts"
     metaKeywords: null
@@ -585,9 +625,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "jamie-ahern"
+- id: "/landing/jamie-ahern"
   web:
     metaTitle: "Meet Our Reps"
     metaKeywords: null
@@ -613,9 +655,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: "<h2 id=\"jamieahern\">Jamie Ahern</h2>\n<p>Jamie likes long walks on the beach and selling insurance.</p>\n<p><strong>Quick Facts</strong></p>\n<ul>\n<li>Jamie is a <a href=\"https://licenseesearch.fldfs.com/Licensee/1842736\">fully licensed producer in Florida</a>.</li>\n<li>Jamie has helped hundreds of customers get affordable coverage for their home.</li>\n<li>Kin is the <a href=\"/reviews/\">top-rated insurance company</a> in Florida.</li>\n</ul>\n<p><a href=\"/cs/c/?cta_guid=59fb19a4-94b0-43e6-af1b-3d91dc65bb85&signature=AAH58kFGpuF02Y8Mxi4Fm4YoeweCbpTNhw&pageId=26402264411&placement_guid=db986f48-78b4-4e4b-8cfd-53a65b4f6815&click=0df1edef-e9d2-42a0-a758-995b364158a5&hsutk=806db31570f56b9e0bf881d51f096e89&canon=https%3A%2F%2Fwww.kin.com%2Fjamie-ahern&portal_id=5763266&redirect_url=APefjpG-CNJhcF3m6UkDAc0Ni5CYgYwxVHruuiW6KSm-E6q0xaVYQQc1JMceIq6nu7DTufr4PFVv2hsRpR9A25unikhhuh3Xsf7FJpQIovAk9eyunxpbRRdVbcUW3r2DdXMUfAW4MCaZ8Z_iNp6OedjoygMJ7ZPPPw3Ad1nXaP8vTdNVl6WpRaQR0--4KbIGfQ5ML-o9VdLk54cXRL92D2UeM8NFmJ162uYGSpJDI2AX0nWYYfLUH9VeTm55Qn8EkF-U26G0ZNwY\" title=\"Get a Quote\"><strong>Get a Quote</strong></a></p>"
-- id: "john-lynch-1"
+- id: "/landing/john-lynch-1"
   web:
     metaTitle: "Meet Our Reps"
     metaKeywords: null
@@ -641,9 +685,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: "<h2 id=\"johnlynch\">John Lynch</h2>\n<p>John loves to travel and cook. He also prides himself on providing the best possible customer service!</p>\n<p><strong>Quick Facts</strong></p>\n<ul>\n<li>John is a <a href=\"https://licenseesearch.fldfs.com/Licensee/1914717\">fully licensed producer in Florida</a>.</li>\n<li>John has helped hundreds of customers get affordable coverage for their home.</li>\n<li>Kin is the <a href=\"/reviews/\">top-rated insurance company</a> in Florida.</li>\n</ul>\n<p><a href=\"/cs/c/?cta_guid=59fb19a4-94b0-43e6-af1b-3d91dc65bb85&signature=AAH58kHIsyPTUQgARMsv5DQ_p4lqFqPFcw&pageId=27474475646&placement_guid=db986f48-78b4-4e4b-8cfd-53a65b4f6815&click=58950015-e3a6-4bf8-a969-41d5281801a3&hsutk=d32e8f6e718c79b7cda572f475bce4af&canon=https%3A%2F%2Fwww.kin.com%2Fjohn-lynch&portal_id=5763266&redirect_url=APefjpEWwjm5cQTHhnuwEJ4LNjY9A-MOFIL7a_WUe-QkWKpnyzPBv1Xbiy8sLLISo23uTLbog2TpHgMxTP1oNjYhVvS2Ib2o_gblU_ZN-7pfEHr5bt_EzcmRXwDQPUrzpjnf0cZBEDQcqLE9n72djG9KKqXJ8YCOTz00m6502axCmQsTZrO56VsbyHLDz5FJWncRM0Ns48bJ7SgYQdwrUgVQtjKq0U58xRVs7m2YLRqiBgP1BtEFiIXuZl7jnUbvunX5E0cz8d7n&__hstc=231796288.d32e8f6e718c79b7cda572f475bce4af.1610651041166.1610651041166.1610651041166.1&__hssc=231796288.27.1610651041167&__hsfp=2873996859&contentType=landing-page\" title=\"Get a Quote\"><strong>Get a Quote</strong></a></p>"
-- id: "john-lynch"
+- id: "/landing/john-lynch"
   web:
     metaTitle: "Meet Our Reps"
     metaKeywords: null
@@ -669,9 +715,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: "<h2 id=\"johnlynch\">John Lynch</h2>\n<p>John loves to travel and cook. He also prides himself on providing the best possible customer service!</p>\n<p><strong>Quick Facts</strong></p>\n<ul>\n<li>John is a <a href=\"https://licenseesearch.fldfs.com/Licensee/1914717\">fully licensed producer in Florida</a>.</li>\n<li>John has helped hundreds of customers get affordable coverage for their home.</li>\n<li>Kin is the <a href=\"/reviews/\">top-rated insurance company</a> in Florida.</li>\n</ul>\n<p><a href=\"/cs/c/?cta_guid=59fb19a4-94b0-43e6-af1b-3d91dc65bb85&signature=AAH58kHgqEXjR_M9ZUIA9RJtxKqLtJdRdw&pageId=27474475646&placement_guid=db986f48-78b4-4e4b-8cfd-53a65b4f6815&click=514d9d71-92ef-42ea-9aab-7911fb9e2292&hsutk=806db31570f56b9e0bf881d51f096e89&canon=https%3A%2F%2Fwww.kin.com%2Fjohn-lynch&portal_id=5763266&redirect_url=APefjpEv5OYLq2AXtDkz0gqX97GzELn4Jtxan5rLud7WcsPf_HLX7jMWJWMEYucq_2VTvRdQijYQdmD0Yua46somSG84msaEi0Cr0ptnsM6k3jPyzTwstS2aLQBuVBAZtrh_GZj0f5JqbAXQTmLaPG6ZpchbOo4cLWHwM_oddIQxe6tOZru7j-vNnYEMoe26ITy-V9VnuQO8ljtxHR7tOhd8rMt0jhpSWoFbrhWNdYNrqz2LXaFrtk4eeupmopc84J5HkIE3tCM6&__hstc=231796288.806db31570f56b9e0bf881d51f096e89.1610476663903.1610581689623.1610643242958.7&__hssc=231796288.5.1610643242958&__hsfp=2900156266&contentType=landing-page\" title=\"Get a Quote\"><strong>Get a Quote</strong></a></p>"
-- id: "kin-from-a-friend"
+- id: "/landing/kin-from-a-friend"
   web:
     metaTitle: "Your Friends Love Kin and We Think You Will Too"
     metaKeywords: null
@@ -697,9 +745,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "kin-partners"
+- id: "/landing/kin-partners"
   web:
     metaTitle: "Kin is a whole new way to Home Insurance"
     metaKeywords: null
@@ -725,9 +775,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: "<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-MJ.png\" alt=\"\" /></p>\n<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-Debra-West.png\" alt=\"\" /></p>"
-- id: "kin-vs-allstate"
+- id: "/landing/kin-vs-allstate"
   web:
     metaTitle: "Save $500 When You Apply Online*"
     metaKeywords: null
@@ -753,9 +805,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "kin-vs-geico"
+- id: "/landing/kin-vs-geico"
   web:
     metaTitle: "Save $500 When You Apply Online*"
     metaKeywords: null
@@ -781,9 +835,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "kin-vs-progressive"
+- id: "/landing/kin-vs-progressive"
   web:
     metaTitle: "Save $500 When You Apply Online*"
     metaKeywords: null
@@ -809,9 +865,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "kin-vs-state-farm"
+- id: "/landing/kin-vs-state-farm"
   web:
     metaDescription: ""
     metaTitle: "Save $500 When You Apply Online*"
@@ -838,9 +896,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: "1"
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "lendingtree"
+- id: "/landing/lendingtree"
   web:
     metaTitle: "lendingtree"
     metaKeywords: null
@@ -866,9 +926,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "manufactured-home"
+- id: "/landing/manufactured-home"
   web:
     metaTitle: "Florida Manufactured Home Insurance"
     metaKeywords: null
@@ -894,9 +956,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "mobile-home"
+- id: "/landing/mobile-home"
   web:
     metaTitle: "Florida Mobile Home Insurance"
     metaKeywords: null
@@ -922,9 +986,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "mymove"
+- id: "/landing/mymove"
   web:
     metaTitle: "Congrats on Your New Home. Now Let's Protect Your Investiment."
     metaKeywords: null
@@ -950,9 +1016,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "newspapers"
+- id: "/landing/newspapers"
   web:
     metaTitle: "Home Insurance Costs Are Through the Roof. Kin Can Help."
     metaKeywords: null
@@ -978,9 +1046,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "newyear"
+- id: "/landing/newyear"
   web:
     metaTitle: "Manufactured Home Insurance Experts"
     metaKeywords: null
@@ -1006,9 +1076,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "npr"
+- id: "/landing/npr"
   web:
     metaTitle: "Welcome, NPR Listeners!"
     metaKeywords: null
@@ -1034,9 +1106,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "opcity"
+- id: "/landing/opcity"
   web:
     metaTitle: "opcity"
     metaKeywords: null
@@ -1062,9 +1136,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "orlando-specialists"
+- id: "/landing/orlando-specialists"
   web:
     metaTitle: "Orlando Home Insurance Experts"
     metaKeywords: null
@@ -1090,9 +1166,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "pandora"
+- id: "/landing/pandora"
   web:
     metaTitle: "Florida Home Insurance Experts"
     metaKeywords: null
@@ -1118,9 +1196,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "protect-my-home"
+- id: "/landing/protect-my-home"
   web:
     metaTitle: "Protect Your Home with BMP + Kin"
     metaKeywords: null
@@ -1146,9 +1226,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "realtors"
+- id: "/landing/realtors"
   web:
     metaTitle: "Kin Partners with Realtors!"
     metaKeywords: null
@@ -1174,9 +1256,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "save-on-home-insurance"
+- id: "/landing/save-on-home-insurance"
   web:
     metaTitle: "Save On Your Home Insurance"
     metaKeywords: null
@@ -1202,9 +1286,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "save250"
+- id: "/landing/save250"
   web:
     metaTitle: "Save $250 When You Apply Online*"
     metaKeywords: null
@@ -1230,9 +1316,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "save500"
+- id: "/landing/save500"
   web:
     metaDescription: ""
     metaTitle: "Save an Average of $500 When You Apply Online*"
@@ -1259,9 +1347,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: "1"
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "solar"
+- id: "/landing/solar"
   web:
     metaTitle: "Save on Energy. Save on Home Insurance."
     metaKeywords: null
@@ -1287,9 +1377,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "tampa-specialists"
+- id: "/landing/tampa-specialists"
   web:
     metaTitle: "Tampa Home Insurance Experts"
     metaKeywords: null
@@ -1315,9 +1407,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "texas-quote"
+- id: "/landing/texas-quote"
   web:
     metaTitle: "Texas Home Insurance Experts"
     metaKeywords: null
@@ -1343,9 +1437,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "texas-quotes"
+- id: "/landing/texas-quotes"
   web:
     metaTitle: "Texas Home Insurance Experts"
     metaKeywords: null
@@ -1371,9 +1467,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "texas-specialists"
+- id: "/landing/texas-specialists"
   web:
     metaTitle: "The Texas Home Insurance Experts"
     metaKeywords: null
@@ -1399,9 +1497,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "third-nail"
+- id: "/landing/third-nail"
   web:
     metaTitle: "One Nail Could Save You Up to 50% on Home Insurance"
     metaKeywords: null
@@ -1427,9 +1527,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: "<h2 id=\"getyourfreeconsultation\">Get Your Free Consultation</h2>\n<p>When you sign up for a consultation with LGT, you’ll get a <strong>$100 discount</strong> from us on your third nail installation. We’ll send you a new insurance quote with your projected savings, too.</p>\n<p><strong>First Name*</strong></p>\n<p><strong>Last Name*</strong></p>\n<p><strong>Email*</strong></p>\n<p><strong>Phone Number*</strong></p>"
-- id: "tph"
+- id: "/landing/tph"
   web:
     metaDescription: ""
     metaTitle: "Save $500 When You Apply Online*"
@@ -1456,9 +1558,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: "1"
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "umbrella-giveaway-promo"
+- id: "/landing/umbrella-giveaway-promo"
   web:
     metaDescription: ""
     metaTitle: "Umbrella Giveaway Promo"
@@ -1485,9 +1589,11 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: "1"
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
-- id: "vivint-quote"
+- id: "/landing/vivint-quote"
   web:
     metaTitle: "Kin is proud to partner with"
     metaKeywords: null
@@ -1513,5 +1619,7 @@
     schemamarkup: null
     jump_nav: null
     show_related_posts: null
-    related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
     body: ""
