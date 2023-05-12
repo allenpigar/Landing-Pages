@@ -57,7 +57,7 @@
     related_posts_1: null
     related_posts_2: null
     related_posts_3: null
-    body: "<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-MJ.png\" alt=\"\" /></p>\n<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-Debra-West.png\" alt=\"\" /></p>"
+    body: "<p><img src=\"https://6rvxtlhl.media.zestyio.com/Trustpilot-Review-MJ.png\" alt=\"\" /></p>\n<p><img src=\"https://6rvxtlhl.media.zestyio.com/Trustpilot-Review-Debra-West.png\" alt=\"\" /></p>"
 - id: "/landing/california-specialists"
   web:
     metaTitle: "California Home Insurance Experts"
@@ -778,7 +778,7 @@
     related_posts_1: null
     related_posts_2: null
     related_posts_3: null
-    body: "<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-MJ.png\" alt=\"\" /></p>\n<p><img src=\"/images/Kin_oct_2019/images/Landing/Trustpilot-Review-Debra-West.png\" alt=\"\" /></p>"
+    body: "<p><img src=\"https://6rvxtlhl.media.zestyio.com/Trustpilot-Review-MJ.png\" alt=\"\" /></p>\n<p><img src=\"https://6rvxtlhl.media.zestyio.com/Trustpilot-Review-Debra-West.png\" alt=\"\" /></p>"
 - id: "/landing/kin-vs-allstate"
   web:
     metaTitle: "Save $500 When You Apply Online*"

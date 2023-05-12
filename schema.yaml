@@ -29,7 +29,7 @@
       datatype: "wysiwyg_basic"
       sort: 1
       required: true
-      relationship: null
+      relationship: nulla
     - name: "header_text"
       label: "Heading"
       description: null
